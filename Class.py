@@ -51,8 +51,6 @@ class PriceChecker:
 
 
     # Display the menu and get user input about what methods to execute next
-
-
     def displayMenu(self):
         min = 0
         max = 5

@@ -35,6 +35,7 @@ while userInput != 0:
 
     elif userInput == 4:
         checkerObject.updateMenuPrice()
+   
     elif userInput == 5:
         # The timer that we will create in the monitorLevels() method, will run on a separate thread.
         # Since that thread is not controlled by this menu, the user will have to press Cntrl+C repeatedly to stop it.
